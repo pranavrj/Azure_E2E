@@ -1,0 +1,9 @@
+{
+	"name": "azureDEadf96",
+	"location": "uksouth",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "ae33c367-052a-4533-a7d6-b1ff992744cf",
+		"tenantId": "f66f3f85-be73-41ae-8409-1eda96acc864"
+	}
+}
