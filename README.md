@@ -1,4 +1,4 @@
-## Azure End to End Data Engineering
+## Azure End to End Data Engineering Project
 
 Project Architecture:
 
